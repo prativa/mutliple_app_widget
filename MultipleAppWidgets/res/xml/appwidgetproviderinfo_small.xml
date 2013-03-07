@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/layout_appwidget_small"
+    android:minHeight="40dp"
+    android:minWidth="40dp"
+    android:updatePeriodMillis="21600000" > <!-- 6hrs -->
+
+</appwidget-provider>
